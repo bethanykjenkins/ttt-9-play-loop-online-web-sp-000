@@ -38,6 +38,5 @@ end
 # Define your play method below
 
 def play
-  9.times do turn
-end
+  
 end
